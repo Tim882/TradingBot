@@ -1,0 +1,17 @@
+{
+  "NServiceBus.MessageId": "a3f28ffc-674c-49b6-8f41-b23f01686cf0",
+  "NServiceBus.MessageIntent": "Publish",
+  "NServiceBus.ConversationId": "fa75f38f-b0c5-48df-9ed8-b23f01686cf1",
+  "NServiceBus.CorrelationId": "a3f28ffc-674c-49b6-8f41-b23f01686cf0",
+  "NServiceBus.ReplyToAddress": "TradingBot",
+  "NServiceBus.OriginatingMachine": "TIM882",
+  "NServiceBus.OriginatingEndpoint": "TradingBot",
+  "$.diagnostics.originating.hostid": "a2a3a2608d5485aea3c76e43b078869f",
+  "NServiceBus.ContentType": "application\/json",
+  "NServiceBus.EnclosedMessageTypes": "Messages.OpenedPosition, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "9.2.3",
+  "NServiceBus.TimeSent": "2024-12-07 21:52:16:164316 Z",
+  "NServiceBus.Retries": "1",
+  "NServiceBus.Retries.Timestamp": "2024-12-07 21:52:16:367645 Z",
+  "NServiceBus.DeliverAt": "2024-12-07 21:52:26:368019 Z"
+}
